@@ -1,0 +1,14 @@
+D:\Javier\Alex\W3_restaurant\W3_restaurant\bin\Debug\net8.0\restaurant.exe
+D:\Javier\Alex\W3_restaurant\W3_restaurant\bin\Debug\net8.0\restaurant.deps.json
+D:\Javier\Alex\W3_restaurant\W3_restaurant\bin\Debug\net8.0\restaurant.runtimeconfig.json
+D:\Javier\Alex\W3_restaurant\W3_restaurant\bin\Debug\net8.0\restaurant.dll
+D:\Javier\Alex\W3_restaurant\W3_restaurant\bin\Debug\net8.0\restaurant.pdb
+D:\Javier\Alex\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Javier\Alex\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.AssemblyInfoInputs.cache
+D:\Javier\Alex\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.AssemblyInfo.cs
+D:\Javier\Alex\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.csproj.CoreCompileInputs.cache
+D:\Javier\Alex\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.dll
+D:\Javier\Alex\W3_restaurant\W3_restaurant\obj\Debug\net8.0\refint\restaurant.dll
+D:\Javier\Alex\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.pdb
+D:\Javier\Alex\W3_restaurant\W3_restaurant\obj\Debug\net8.0\restaurant.genruntimeconfig.cache
+D:\Javier\Alex\W3_restaurant\W3_restaurant\obj\Debug\net8.0\ref\restaurant.dll
